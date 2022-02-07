@@ -13,10 +13,10 @@
         <div>
           <div><span>To json:</span></div>
           <div id="js"><pre>{{ result.js }}</pre></div>
-          <div><span>To array:</span></div>
-          <div id="arr"><pre>{{ result.arr }}</pre></div>
           <div><span>To headers:</span></div>
           <div id="headers"><pre>{{ result.headers }}</pre></div>
+          <div><span>To array:</span></div>
+          <div id="arr"><pre>{{ result.arr }}</pre></div>
         </div>
       </el-main>
     </el-container>

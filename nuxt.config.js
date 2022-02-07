@@ -3,6 +3,7 @@ export default {
   //   port: 80,
     host: "0.0.0.0"
   },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'guess',
